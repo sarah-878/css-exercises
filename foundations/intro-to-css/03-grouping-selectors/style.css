@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.e1, .e2 {
+    font-size: 24px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.e1 {
+    background-color: black;
+    color: white;
+}
+
+
+.e2 {
+    background-color: yellow;
+
+}
